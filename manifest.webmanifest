@@ -1,0 +1,14 @@
+{
+  "name": "Gift a grin",
+  "short_name": "GAG Lite",
+  "description": "Learn how to create and share something or other.",
+  "display": "fullscreen",
+  "start_url": "index.html",
+  "background_color": "#000000",
+  "theme_color": "#0f4a73",
+  "icons": [  {
+      "src": "icon/fox-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+}
